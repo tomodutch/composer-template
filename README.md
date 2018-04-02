@@ -18,6 +18,7 @@ Making development of composer libraries easy with this cloneable template which
 - [a changelog](https://keepachangelog.com/en/1.0.0/)
 - MIT license (not sure about what license you need? https://choosealicense.com/)
 - documentation using [sphinx](http://www.sphinx-doc.org/en/master/)
+- issue and pull request template
 - badges from http://shields.io/
 
 ## Requirements
@@ -63,3 +64,15 @@ In order to use this template you'll need to change a few things:
 
 ## Documentation
 While this README should be enough to get started. Please read the [full documentation](http://composer-template.readthedocs.io/en/latest/index.html) for more details. 
+
+## Contributing
+Thanks for reading this far into the README and considering contributing to this project.
+If you have any questions or suggestions feel free to create an issue.
+
+If you want to modify the code then please follow these steps:
+
+1. Fork it (https://github.com/TFarla/composer-template)
+2. Create your feature branch (git checkout -b feature/fooBar)
+3. Commit your changes (git commit -am 'Add some fooBar')
+4. Push to the branch (git push origin feature/fooBar)
+5. Create a new Pull Request
