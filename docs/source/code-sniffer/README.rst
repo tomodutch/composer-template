@@ -1,0 +1,5 @@
+Code sniffer
+============
+
+Purpose
+-------

@@ -8,5 +8,4 @@ namespace TFarla\ComposerTemplate;
  */
 class Example
 {
-
 }
