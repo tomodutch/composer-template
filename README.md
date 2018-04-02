@@ -12,7 +12,7 @@ Making development of composer libraries easy with this cloneable template which
 - mess detector ([phpmd](https://phpmd.org/))
 - testing framework ([phpunit](https://phpunit.de/))
 - php code sniffer which enforces the [psr-2 standard](https://www.php-fig.org/psr/psr-2/) ([phpcs](https://github.com/squizlabs/PHP_CodeSniffer))
-- composer configuration with [https://www.php-fig.org/psr/psr-4/](psr-4 autoloading)
+- composer configuration with [psr-4 autoloading](https://www.php-fig.org/psr/psr-4/)
 - [a changelog](https://keepachangelog.com/en/1.0.0/)
 - MIT license (not sure about what license you need? https://choosealicense.com/)
 
