@@ -9,6 +9,7 @@
 Making development of composer libraries easy with this cloneable template which includes:
 
 - continuous integration ([travis ci](https://travis-ci.org/))
+- code coverage ([coveralls](https://coveralls.io/))
 - static analysis ([phpstan](https://github.com/phpstan/phpstan))
 - mess detector ([phpmd](https://phpmd.org/))
 - testing framework ([phpunit](https://phpunit.de/))
@@ -21,7 +22,12 @@ Making development of composer libraries easy with this cloneable template which
 
 ## Requirements
 - php 7.1 or greater ([supported versions](http://php.net/supported-versions.php))
+- python & pip to create documentation
+- composer
 
 ## Installation
 
 ## Usage
+
+## Documentation
+While this README should be enough to get started. Please read the [full documentation](http://composer-template.readthedocs.io/en/latest/index.html) for more details. 
