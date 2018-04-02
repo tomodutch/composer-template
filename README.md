@@ -27,7 +27,39 @@ Making development of composer libraries easy with this cloneable template which
 
 ## Installation
 
+The following command will clone this template and place it in the `my-library` directory
+
+```bash
+composer create-project tfarla/composer-template my-library
+```
+
+Composer's [create-project](https://getcomposer.org/doc/03-cli.md#create-project) will also install all dependencies in this template:
+```bash
+Installing tfarla/composer-template (dev-master d3249c7ffef021c39e33a4323be4d70899d4d28b)
+  - Installing tfarla/composer-template (dev-master master): Cloning master from cache
+Created project in my-library
+Loading composer repositories with package information
+Installing dependencies (including require-dev) from lock file
+Generating autoload files
+ocramius/package-versions:  Generating version class...
+ocramius/package-versions: ...done generating version class
+```
+
+Once the download is done you will get the choice to remove the `.git` directory which you should do if you want your own repository.
+
+```bash
+Do you want to remove the existing VCS (.git, .svn..) history? [Y,n]? y
+```
+
 ## Usage
+In order to use this template you'll need to change a few things:
+
+- Change the content in this README file to reflect your library 
+- Change the content in the `docs/` directory to reflect your library
+- Setup [travis-ci](https://travis-ci.org/) (should be plug & play)
+- Setup [readthedocs](https://readthedocs.org/) (should be plug & play)
+- Setup [coveralls](https://coveralls.io/) (should be plug & play) 
+- Pick a license https://choosealicense.com/ (MIT is good enough for most open source project, but you might want to look at the other options)
 
 ## Documentation
 While this README should be enough to get started. Please read the [full documentation](http://composer-template.readthedocs.io/en/latest/index.html) for more details. 
