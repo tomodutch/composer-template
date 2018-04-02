@@ -1,4 +1,10 @@
 # Composer template
+
+[![Packagist](https://img.shields.io/packagist/dt/TFarla/composer-template.svg?style=flat-square)](https://packagist.org/packages/tfarla/composer-template)
+[![Travis](https://img.shields.io/travis/TFarla/composer-template.svg?style=flat-square)](https://travis-ci.org/TFarla/composer-template)
+[![Coveralls github](https://img.shields.io/coveralls/github/TFarla/composer-template.svg?style=flat-square)](https://coveralls.io/github/TFarla/composer-template)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 Making development of composer libraries easy with this cloneable template which includes:
 
 - continuous integration ([travis ci](https://travis-ci.org/))
